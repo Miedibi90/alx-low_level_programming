@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main- a function that prints the string
  * Return: program ends with 0
  */
