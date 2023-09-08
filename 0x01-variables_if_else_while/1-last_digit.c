@@ -3,11 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Retrun : Always 0
+ *main - prints last digit of n which is m
+ *Return : Always 0
  */
-
 int main(void)
 {
 	int n, m;
