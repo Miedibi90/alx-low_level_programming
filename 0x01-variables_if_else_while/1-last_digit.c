@@ -4,7 +4,7 @@
 
 /**
  *main - prints last digit of n which is m
- *Return : Always 0(successful)
+ *Return : Always (successful)
  */
 int main(void)
 {
