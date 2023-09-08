@@ -9,7 +9,7 @@
 	{
 		int i = 'a', j = 'A';
 
-		for (i = 'a'; i <= z; i++)
+		for (i = 'a'; i <= 'z'; i++)
 		{
 			for (j = 'A'; j <= 'Z'; j++)
 			{
