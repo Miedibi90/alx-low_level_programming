@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Retrun: Always 0
+ * Retrun : Always 0
  */
 
 int main(void)
@@ -26,7 +26,7 @@ int main(void)
 	}
 	else
 	{
-	printf("Last digit of %d id %d and is less thab 6 and not 0\n", n, m);
+	printf("Last digit of %d is %d and is less than 6 and not 0\n", n, m);
 	}
 	return (0);
 }
